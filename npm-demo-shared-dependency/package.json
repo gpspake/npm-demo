@@ -1,0 +1,14 @@
+{
+  "name": "@spake/npm-demo-shared-dependency",
+  "version": "1.0.0",
+  "description": "I'm a dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "George Spake",
+  "license": "ISC"
+}
