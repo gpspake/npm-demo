@@ -10,5 +10,11 @@
     "demo"
   ],
   "author": "George Spake",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@spake/npm-demo-dependency": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@spake/npm-demo-peer-dependency": "^1.0.0"
+  }
 }
