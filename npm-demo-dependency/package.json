@@ -1,7 +1,7 @@
 {
   "name": "@spake/npm-demo-dependency",
-  "version": "2.0.0",
-  "description": "I'm a dependency",
+  "version": "2.0.1",
+  "description": "I'm a dependency 2.0.1",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -10,5 +10,8 @@
     "demo"
   ],
   "author": "George Spake",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@spake/npm-demo-shared-dependency": "^1.0.0"
+  }
 }
