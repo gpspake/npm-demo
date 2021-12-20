@@ -1,7 +1,7 @@
 {
   "name": "@spake/npm-demo-shared-dependency",
-  "version": "1.5.0",
-  "description": "I'm a dependency 1.5.0",
+  "version": "2.0.0",
+  "description": "I'm a dependency 2.0.0",
   "main": "index.js",
   "scripts": {
     "test": "test"
