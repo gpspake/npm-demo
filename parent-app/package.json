@@ -12,9 +12,7 @@
   "author": "George Spake",
   "license": "ISC",
   "dependencies": {
-    "@spake/npm-demo-dependency": "^2.0.0"
-  },
-  "peerDependencies": {
-    "@spake/npm-demo-peer-dependency": "^1.0.0"
+    "@spake/npm-demo-dependency": "^2.0.0",
+    "@spake/npm-demo-peer-dependency": "^2.0.0"
   }
 }
